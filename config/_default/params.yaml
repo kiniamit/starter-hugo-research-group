@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'RIT’s First-Generation Immigrant Faculty/Staff Networking Group.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -84,14 +84,14 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: RIT
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'rit'
     api_key: ''
     zoom: 15
 
