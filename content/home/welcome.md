@@ -13,13 +13,14 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
+  font-size:2.0rem
   css_style:
   css_class:
 ---
 
 <br>
 
-Was established on Feb 23,
+The group was established on Feb 23,
 2018 by Drs. Jerrie Hsieh,
 Amanda Bao, and Muhammet
 Kesgin with funding from an
