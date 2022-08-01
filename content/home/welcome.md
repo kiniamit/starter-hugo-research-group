@@ -13,7 +13,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  font-size:2.0rem
+  font_size:2.0rem
   css_style:
   css_class:
 ---
