@@ -17,10 +17,6 @@ organizations:
   - name: Saunders College of Business
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-
 education:
     - BS, National Taiwan Normal University (Taiwan)
     - MS, Ph.D., Purdue University
@@ -53,6 +49,5 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
