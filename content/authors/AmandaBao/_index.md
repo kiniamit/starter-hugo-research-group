@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Amanda Bao is an Associate Professor and Program Director in Civil Engineering Technology at Rochester Institute of Technology. She got her Ph.D. degree in Civil Engineering from the University of Colorado at Boulder, USA, in 2006. Dr. Bao started teaching at Rochester Institute of Technology in 2010 and she regularly teaches structural engineering courses. Prior to RIT, she worked as a bridge structural engineer at Jacobs Engineering Group, Inc. and Michael Baker International, Inc. in Denver, Colorado, and she is a licensed professional engineer in Colorado and New York, USA. Dr. Amanda Bao won the 2021 Eisenhart Award for Outstanding Teaching at RIT.  Dr. Bao has been actively involved in engineering education research since 2011, including digital learning, active learning and intensive collaboration with industry. Dr. Bao develops a teaching website: http://baoteachingcet.com/ and opens a YouTube Structural Design Teaching channel to post screencasts to supplement traditional lecture-type classes, and she also created hands-on active learning modules to improve teaching and learning effectiveness. In addition to education research, Dr. Bao conducts research in the areas of bridge resiliency and sustainability, innovative construction materials and evaluation of aging infrastructure. She has extensive research experience in finite element modeling and lab testing of structures and published more than 20 research papers.
+bio:
 
 Home Country: CHINA
 
