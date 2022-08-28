@@ -1,37 +1,34 @@
 ---
 # Display name
-title: "Mohamed Wiem Mkaouer"
+title: "Jerrie Hsieh"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "mohamed-wiem-mkaouer"
+- "jerrie-hsieh"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor of Software Engineering Department
+role: Professor at International Hospitality and Service Innovation Department
 
 # Organizations/Affiliations
 organizations:
-- name: Golisano College of Computing and Information Sciences
+- name: Saunders College of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research interests software refactoring and quality.
+bio: Research interests Hospitality Employees’ Occupational Health & Well-being.
 
-Started @ RIT: Fall 2016
-Home Country: TUNISIA
+Started @ RIT: Fall 2015
+Home Country: TAIWAN
 
-Family: Wife and 2 children
-Hobbies: Soccer
-My favorite: Watching horror movies
+Family: A husband & a 11-year-old son
+Hobbies: Making Chinese dumplings, travel, movies, gossiping
+My favorite: If you fail to plan, you are planning to fail
 
 interests:
-- Software Quality
-- Systems Refactoring
-- Model-driven Engineering
-- Software Testing
+- Hospitality Employees’ Occupational Health & Well-being
 
 education:
 courses:
