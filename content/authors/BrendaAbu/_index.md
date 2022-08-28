@@ -23,7 +23,6 @@ Dr. Abu has experience as a clinical dietician, lecturer and nutrition consultan
 
 Home Country: GHANA
 
-education:
 courses:
 - course: Ph.D.
   institution: University of the Free State (South Africa)
@@ -47,8 +46,8 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/wshnneeds/
 - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/needs_WSHN
+  icon_pack: fab
+  link: https://twitter.com/needs_WSHN
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brenda-abu-8881a217/
