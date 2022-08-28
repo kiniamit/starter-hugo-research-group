@@ -1,36 +1,33 @@
 ---
 # Display name
-title: "Duygu Akdevelioglu"
+title: "Peter Bajorski"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "duygu-akdevelioglu"
+- "peter-bajorski"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant Professor. Department of MIS, Marketing, and Analytics
+role: Professor - School of Mathematical Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Saunders College of Business
+- name: College of Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Dr. Peter Bajorski has taught undergraduate and graduate courses in fundamentals of probability and statistics, multivariate analysis, regression analysis, and experimental design. He has also developed and taught a specialized course on multivariate statistics for imaging science.
 
-Home Country: TURKEY
+Home Country: POLAND
 
 education:
 courses:
-- course: Ph.D. in Marketing
-  institution: University of California, Irvine
-  year: 2018
-- course: MS in Marketing
-  institution: Bilkent University, Turkey
-  year: 2013
-
+- course: Ph.D.
+  institution: Technical University of Wroclaw (Poland)
+- course: MS
+  institution: University of Wroclaw (Poland)
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -38,13 +35,13 @@ courses:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:duygu@saunders.rit.edu'
-- icon: google-scholar
+  link: 'mailto:pxbeqa@rit.edu'
+- icon: dblp
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=QMYSvuQAAAAJ&hl=en
+  link: https://dblp.org/pid/86/8286.html
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/duyguakdevelioglu
+  link: https://www.linkedin.com/in/peter-bajorski-59869a4/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,3 +59,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+
+Dr. Peter Bajorski has taught undergraduate and graduate courses in fundamentals of probability and statistics, multivariate analysis, regression analysis, and experimental design. He has also developed and taught a specialized course on multivariate statistics for imaging science.
