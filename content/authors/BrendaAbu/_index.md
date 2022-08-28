@@ -19,10 +19,10 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Abu is an Assistant Professor in the Wegmans School of Health and Nutrition at RIT. She was formerly a Post-doctoral Research Associate in the Nutritional Sciences Department at Texas Tech University. Dr. Abu received her PhD in Nutrition from the University of the Free State (South Africa), a Masters in Nutrition from the University of Ghana and a Bachelor of Science Degree (Honors) in Community Nutrition from the University for Development Studies (Ghana).
-Dr. Abu has experience as a clinical dietician, lecturer and nutrition consultant. Her research interests include micronutrient deficiencies, food security, maternal and child nutrition, program/project design and impact assessment, and stakeholder engagement. She works with others using a multi-disciplinary approach, to addressing food and nutrition security among college students and senior citizens (USA). She is also involved with addressing anemia in low-income communities using sustainable food-based approaches while facilitating stakeholder engagement (Ghana).
 
 Home Country: GHANA
 
+education:
 courses:
 - course: Ph.D.
   institution: University of the Free State (South Africa)
