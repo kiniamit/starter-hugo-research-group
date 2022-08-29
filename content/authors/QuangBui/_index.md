@@ -66,3 +66,12 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+I am a passionate teacher who strives to make each class a great learning experience for my students. I prefer active learning strategies over traditional PPTs and hands-on exercises over lectures.
+
+As a researcher, I examine relevant questions related to technology use and impacts. My research has been published in Journal of Management Information Systems (JMIS), Information & Management, Communications for the ACM (CACM), Communications of the AIS (CAIS), MIS Quarterly Executive, and Academy of Management Annual Meeting.
+
+Research Interests: IT management innovation adoption (e.g., IT outsourcing, IT shared service models, Enterprise Architecture); IT strategies, IT governance, and IT-enabled organizational change.
+
+Teaching Interests: business analytics, database management, web development, enterprise systems (SAP), system analysis and design, and security.
+
+If you have a project I can help with, please reach out via email.
