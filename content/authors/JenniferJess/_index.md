@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-Home Country:
+Home Country: Hong Kong
 
 
 # Social/Academic Networking
