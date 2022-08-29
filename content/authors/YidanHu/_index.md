@@ -1,41 +1,37 @@
 ---
 # Display name
-title: "Jerrie Hsieh"
+title: "Yidan Hu"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "jerrie-hsieh"
+- "yidan-hu"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor at International Hospitality and Service Innovation Department
+role: Assistant Professor in Department of Computing Security
 
 # Organizations/Affiliations
 organizations:
-- name: Saunders College of Business
+- name: Golisano College of Computing and Information Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research interests Hospitality Employees’ Occupational Health & Well-being.
-
-Started @ RIT: Fall 2015
-Home Country: TAIWAN
-
-Family: A husband & a 11-year-old son
-Hobbies: Making Chinese dumplings, travel, movies, gossiping
-My favorite: If you fail to plan, you are planning to fail
-
-interests:
-- Hospitality Employees’ Occupational Health & Well-being
+bio: 
+Home Country: CHINA
 
 education:
 courses:
-- course: Ph.D., MS
-  institution: Purdue University
-- course: BS
-  institution: National Taiwan Normal University (Taiwan)
+- course: Ph.D.
+  institution: University of Delaware
+  year: 2021
+- course: M.E.
+  institution: Hangzhou Dianzi University (China)
+  year: 2016
+- course: B.E.
+  institution: Hangzhou Dianzi University (China)
+  year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +40,13 @@ courses:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jhsieh@saunders.rit.edu'
+  link: 'mailto:yidan.hu@rit.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=UoHgCukAAAAJ&hl=en
-- icon: cv
-  icon_pack: ai
-  link: https://claws.rit.edu/photos/getphotoid.php?Client=MarketingCV&UN=yhsieh&HASH=b25578ce9ee7bf21d8499ef3a33acce52c144b2e&T=1661737745
+  link: https://scholar.google.com.sg/citations?user=TxlYx8gAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jerrie-hsieh-596a2a39
+  link: https://www.linkedin.com/in/yidan-hu-42583b206/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +65,6 @@ user_groups:
 - Researchers
 ---
 
-Jerrie Hsieh is Professor at International Hospitality and Service Innovation Department
+Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology. She received her Ph.D. degree in Computer Science from the University of Delaware in 2021, supervised by Dr. Rui Zhang. She received the B.E.degree and M.E. degree both in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively.
+
+Her primary research interests are data privacy and cybersecurity, with the current focus on security and privacy in network and distributed systems, including wireless networks, cognitive radio networks, mobile crowdsourcing, mobile edge computing, and cloud computing systems. 
