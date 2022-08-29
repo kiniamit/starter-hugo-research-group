@@ -7,7 +7,7 @@ authors:
 - "mohamed-wiem-mkaouer"
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor of Software Engineering Department
@@ -19,6 +19,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research interests software refactoring and quality.
+Started @ RIT: Fall 2016
+Home Country: TUNISIA
+
+Family: Wife and 2 children
+Hobbies: Soccer
+My favorite: Watching horror movies
 
 interests:
 - Software Quality
