@@ -79,7 +79,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 
 Clyde Eiríkur Hull is a Professor in the Management Department in the Saunders College of Business at RIT, where he teaches such topics as Technology Strategy, Strategic Management, and Corporate Social Responsibility and Business Ethics. During his time at RIT he has served in various capacities, including two years during the pandemic (2020-2022) as Chair of what is now RIT’s Faculty Senate. He has published on topics in strategic management ranging from financial performance, corporate social responsibility and sustainability through innovation and entrepreneurship, including digital entrepreneurship and circular-economy entrepreneurship. Theoretical frameworks that appear in his work include the resource-based view, stakeholder theory, and cognitive bias and managerial frameworks in the context of the importance of managing information. His articles have appeared in such journals as Strategic Management Journal, Journal of Management Studies, Journal of Product Innovation Management, Journal of Cleaner Production, and Information Systems Journal. He is also Primary Investigator on a U.S. State Department grant to help female entrepreneurs in Jordan start circular economy businesses. He earned his M.B.A. and Master of Business degrees from Indiana University and his Ph.D. from Indiana University’s Kelley School of Business shortly after it was named. His undergraduate degree is an A.B. in Philosophy from Yale University.

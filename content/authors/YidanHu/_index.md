@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 
 Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology. She received her Ph.D. degree in Computer Science from the University of Delaware in 2021, supervised by Dr. Rui Zhang. She received the B.E.degree and M.E. degree both in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively.

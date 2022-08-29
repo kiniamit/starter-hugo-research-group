@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 
 My passion is working on interdisciplinary projects that aim to leverage the quality of life for people with different abilities, educational levels, and age groups. I worked in academia in Egypt and USA. My PhD is from Virginia Tech.

@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 
 Dr. Peter Bajorski has taught undergraduate and graduate courses in fundamentals of probability and statistics, multivariate analysis, regression analysis, and experimental design. He has also developed and taught a specialized course on multivariate statistics for imaging science.

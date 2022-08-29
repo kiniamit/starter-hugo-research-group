@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 
 Professor in the School of Media Sciences, Rochester Institute of Technology, with the focus on teaching and research in the area of human-media interaction, trans-media publishing and their effects on the user.

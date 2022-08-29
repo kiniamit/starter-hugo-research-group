@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 Before joining RIT, I was a Postdoctoral Scholar at Worcester Polytechnic Institute. I earned a Bachelor’s and Master’s Degree in Mathematical Engineering from Politecnico di Milano in Italy, and a PhD in Mathematics from Purdue University.
 

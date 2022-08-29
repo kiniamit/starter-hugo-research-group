@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 Dr. Sorim Chung is an Assistant Professor of Marketing at the Saunders College of Business. She holds a Ph.D. in Management with a concentration in Marketing from the University of California-Riverside and received her M.A. and B.J. (Bachelor of Journalism) in Advertising from the University of Missouri-Columbia School of Journalism.
 

@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 
 Dr. Abu is an Assistant Professor in the Wegmans School of Health and Nutrition at RIT. She was formerly a Post-doctoral Research Associate in the Nutritional Sciences Department at Texas Tech University. Dr. Abu received her PhD in Nutrition from the University of the Free State (South Africa), a Masters in Nutrition from the University of Ghana and a Bachelor of Science Degree (Honors) in Community Nutrition from the University for Development Studies (Ghana).

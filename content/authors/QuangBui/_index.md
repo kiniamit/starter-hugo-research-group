@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Faculty Members
 ---
 I am a passionate teacher who strives to make each class a great learning experience for my students. I prefer active learning strategies over traditional PPTs and hands-on exercises over lectures.
 
