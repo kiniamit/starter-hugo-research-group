@@ -34,6 +34,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:dongfang.liu@rit.edu'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Dongfang-Liu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=uICY0vEAAAAJ&hl=en
