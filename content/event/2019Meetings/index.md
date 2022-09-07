@@ -9,7 +9,7 @@ summary: 2019 Meetings
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2019-10-25T00:00:00Z'
-date_end: '2019-10-25T00:00:00Z'
+# date_end: '2019-10-25T00:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -25,6 +25,7 @@ image:
 
 ---
 Dear Friends,
+
 Thank you for attending our meeting last Friday and your support of this special networking group.
 Here are some updates based on our discussions on Oct 25
 1.	“RIT International Faculty Networking Group” is available in MyCourses for you to use.  I have also created a section entitled “Member Introduction” Please find time to add your information (Attached is a power point template for your reference. You are free to use any kind of format you prefer to introduce yourself). Please also feel free to add colleagues who are interested in joining our group to the class list.
