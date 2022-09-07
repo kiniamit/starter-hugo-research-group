@@ -2,7 +2,6 @@
 title: 2021 Tai Chi Class
 
 event: 2021 Tai Chi Class
-event_url: https://example.org
 
 summary: 2021 Tai Chi Class
 
