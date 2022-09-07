@@ -5,7 +5,7 @@ widget: carousel
 headless: true
 
 # Order that this section appears on the page. The number is from lower to higher
-weight: 1
+weight: 100
 
 title: Hello
 
