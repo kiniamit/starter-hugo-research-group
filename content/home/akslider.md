@@ -26,8 +26,8 @@ content:
       link:
         text: View Event
         url: ../event/septembersocial/
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Tai Chi Class
+      content:
       align: left
       background:
         position: center
@@ -37,8 +37,8 @@ content:
       link:
         text: View Event
         url: ../event/taichi/
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: International Feast
+      content: 
       align: right
       background:
         position: center
