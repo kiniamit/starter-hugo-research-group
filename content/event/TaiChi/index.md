@@ -14,10 +14,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-09-07T00:00:00Z'
 
-
 # Is this a featured talk? (true/false)
 featured: false
-
 
 gallery_item:
 - album: firstalbum

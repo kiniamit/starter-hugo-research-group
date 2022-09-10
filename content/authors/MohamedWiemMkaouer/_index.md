@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research interests software refactoring and quality.
-Started @ RIT: Fall 2016
+Started at RIT: Fall 2016
 Home Country: TUNISIA
 
 Family: Wife and 2 children
@@ -33,16 +33,16 @@ interests:
 - Software Testing
 
 education:
-courses:
-- course: PhD in Computer and Information Science
-  institution: University of Michigan
-  year: 2016
-- course: MS in Computer Science
-  institution: University of Geneva (Switzerland)
-  year: 2010
-- course: BS in Computer Science
-  institution: University of Tunis (Tunisia)
-  year: 2007
+  courses:
+  - course: PhD in Computer and Information Science
+    institution: University of Michigan
+    year: 2016
+  - course: MS in Computer Science
+    institution: University of Geneva (Switzerland)
+    year: 2010
+  - course: BS in Computer Science
+    institution: University of Tunis (Tunisia)
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
