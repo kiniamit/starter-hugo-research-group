@@ -8,5 +8,8 @@ main:
     url: members
     weight: 10
   - name: Events
-    url: event
+    url: events
     weight: 40
+  - name: Event
+    url: event
+    weight: 50
