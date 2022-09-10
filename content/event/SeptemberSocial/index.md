@@ -1,10 +1,10 @@
 ---
-title: 2021 September Social
+title: September Social
 
 
-event: 2021 September Social
+event: September Social
 
-summary: 2021 September Social
+summary: September Social
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

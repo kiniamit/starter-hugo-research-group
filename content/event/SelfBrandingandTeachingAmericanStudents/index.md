@@ -1,13 +1,13 @@
 ---
-title: Tai Chi Class
+title: Self-Branding & Teaching American Students
 
-event: Tai Chi Class
+event: Self-Branding & Teaching American Students
 
-summary: Tai Chi Class
+summary: Self-Branding & Teaching American Students
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-06-01T13:00:00Z'
+date: '2018-03-23T13:00:00Z'
 # date_end: '2021-06-01T15:00:00Z'
 all_day: true
 

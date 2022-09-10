@@ -1,9 +1,9 @@
 ---
-title: 2018 Meet and Greet Event
+title: Meet and Greet Event
 
-event: 2018 Meet and Greet Event
+event: Meet and Greet Event
 
-summary: 2021 Meet and Greet Event
+summary: Meet and Greet Event
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
