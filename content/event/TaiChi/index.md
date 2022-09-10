@@ -22,7 +22,13 @@ image:
   caption: 
   focal_point: Right
 
-{{< gallery album="firstalbum" >}}
+gallery_item:
+- album: firstalbum
+  image: coders.jpg
+  caption: Write your image 1 caption here
+- album: firstalbum
+  image: contact.jpg
+  caption: Write your image 2 caption here
 
 url_code: ''
 url_pdf: ''
