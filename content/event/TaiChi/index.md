@@ -18,9 +18,6 @@ publishDate: '2022-09-07T00:00:00Z'
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 
-  focal_point: Right
 
 gallery_item:
 - album: firstalbum
