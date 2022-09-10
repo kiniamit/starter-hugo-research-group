@@ -33,6 +33,35 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides:
+  - title: AK Testing Inner slide 1
+    content: Take a look at what we're working on...
+    align: center
+    background:
+    position: right
+    color: '#666'
+    brightness: 0.7
+    media: coders.jpg
+  - title: AK Testing Inner slide 2 Lunch & Learn ☕️
+    content: 'Share your knowledge with the group and explore exciting new topics together!'
+    align: left
+    background:
+    position: center
+    color: '#555'
+    brightness: 0.7
+    media: contact.jpg
+  - title: World-Class Semiconductor Lab
+    content: 'Just opened last month!'
+    align: right
+    background:
+    position: center
+    color: '#333'
+    brightness: 0.5
+    media: welcome.jpg
+    link:
+    icon: graduation-cap
+    icon_pack: fas
+    text: Join Us
+    url: ../contact/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
