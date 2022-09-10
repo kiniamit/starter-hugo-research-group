@@ -24,13 +24,7 @@ image:
 
 {{< gallery album="firstalbum" >}}
 
-gallery_item:
-- album: <ALBUM FOLDER>
-  image: coders.jpg
-  caption: Write your image 1 caption here
-- album: <ALBUM FOLDER>
-  image: coders.jpg
-  caption: Write your image 2 caption here
+
 
 slider:
   design:
