@@ -28,11 +28,11 @@ interests:
 - Mathematical Modeling
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Rochester
-- course: BS
-  institution: University of Iasi (Romania)
+  courses:
+  - course: Ph.D.
+    institution: University of Rochester
+  - course: BS
+    institution: University of Iasi (Romania)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

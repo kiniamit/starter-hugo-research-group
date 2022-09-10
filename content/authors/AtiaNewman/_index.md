@@ -22,11 +22,11 @@ bio:
 Home Country: PAKISTAN
 
 education:
-courses:
-- course: MFA
-  institution: Pratt Institute
-- course: BFA
-  institution: National College of the Arts (Pakistan)
+  courses:
+  - course: MFA
+    institution: Pratt Institute
+  - course: BFA
+    institution: National College of the Arts (Pakistan)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -27,13 +27,13 @@ interests:
 - Seismic behavior of bridges
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Colorado at Boulder
-- course: MS
-  institution: Tianjin University (China)
-- course: BS
-  institution: Tianjin University (China)
+  courses:
+  - course: Ph.D.
+    institution: University of Colorado at Boulder
+  - course: MS
+    institution: Tianjin University (China)
+  - course: BS
+    institution: Tianjin University (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

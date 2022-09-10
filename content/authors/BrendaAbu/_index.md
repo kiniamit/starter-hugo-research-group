@@ -23,13 +23,13 @@ bio: Dr. Abu is an Assistant Professor in the Wegmans School of Health and Nutri
 Home Country: GHANA
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of the Free State (South Africa)
-- course: MPhil
-  institution: University of Ghana (Ghana)
-- course: BS
-  institution: University for Development Studies (Ghana)
+  courses:
+  - course: Ph.D.
+    institution: University of the Free State (South Africa)
+  - course: MPhil
+    institution: University of Ghana (Ghana)
+  - course: BS
+    institution: University for Development Studies (Ghana)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

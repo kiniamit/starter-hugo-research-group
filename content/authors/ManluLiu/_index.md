@@ -26,15 +26,15 @@ interests:
 - Information Science
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Arizona
-- course: MBA
-  institution: The Hong Kong University of Science and Technology (Hong Kong)
-- course: MS
-  institution: Zhejiang University (China)
-- course: BS
-  institution: Jiangsu University (China)
+  courses:
+  - course: Ph.D.
+    institution: University of Arizona
+  - course: MBA
+    institution: The Hong Kong University of Science and Technology (Hong Kong)
+  - course: MS
+    institution: Zhejiang University (China)
+  - course: BS
+    institution: Jiangsu University (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -22,16 +22,16 @@ bio:
 Home Country: NETHERLANDS
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Amsterdam (Netherlands)
-  year: 2021
-- course: Master's in Economics
-  institution: University of Amsterdam (Netherlands)
-  year: 2016
-- course: Bachelor's in Economics
-  institution: University of Amsterdam (Netherlands)
-  year: 2015
+  courses:
+  - course: Ph.D.
+    institution: University of Amsterdam (Netherlands)
+    year: 2021
+  - course: Master's in Economics
+    institution: University of Amsterdam (Netherlands)
+    year: 2016
+  - course: Bachelor's in Economics
+    institution: University of Amsterdam (Netherlands)
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

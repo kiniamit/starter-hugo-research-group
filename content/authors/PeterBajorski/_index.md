@@ -23,11 +23,11 @@ bio: Dr. Peter Bajorski has taught undergraduate and graduate courses in fundame
 Home Country: POLAND
 
 education:
-courses:
-- course: Ph.D.
-  institution: Technical University of Wroclaw (Poland)
-- course: MS
-  institution: University of Wroclaw (Poland)
+  courses:
+  - course: Ph.D.
+    institution: Technical University of Wroclaw (Poland)
+  - course: MS
+    institution: University of Wroclaw (Poland)
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

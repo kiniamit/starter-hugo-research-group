@@ -22,16 +22,16 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Delaware
-  year: 2021
-- course: M.E.
-  institution: Hangzhou Dianzi University (China)
-  year: 2016
-- course: B.E.
-  institution: Hangzhou Dianzi University (China)
-  year: 2013
+  courses:
+  - course: Ph.D.
+    institution: University of Delaware
+    year: 2021
+  - course: M.E.
+    institution: Hangzhou Dianzi University (China)
+    year: 2016
+  - course: B.E.
+    institution: Hangzhou Dianzi University (China)
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

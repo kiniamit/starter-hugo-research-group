@@ -22,11 +22,11 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Science and Technology of China (China)
-- course: MS, BS
-  institution: Hefei University of Technology (China)
+  courses:
+  - course: Ph.D.
+    institution: University of Science and Technology of China (China)
+  - course: MS, BS
+    institution: Hefei University of Technology (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

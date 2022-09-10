@@ -27,13 +27,13 @@ interests:
 - Technology Adoption
 
 education:
-courses:
-- course: Ph.D.
-  institution: Bentley University
-- course: MS
-  institution: Brigham Young University
-- course: BS
-  institution: Brigham Young University
+  courses:
+  - course: Ph.D.
+    institution: Bentley University
+  - course: MS
+    institution: Brigham Young University
+  - course: BS
+    institution: Brigham Young University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

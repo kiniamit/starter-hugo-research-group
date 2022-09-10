@@ -31,11 +31,11 @@ interests:
 - Hospitality Employees’ Occupational Health & Well-being
 
 education:
-courses:
-- course: Ph.D., MS
-  institution: Purdue University
-- course: BS
-  institution: National Taiwan Normal University (Taiwan)
+  courses:
+  - course: Ph.D., MS
+    institution: Purdue University
+  - course: BS
+    institution: National Taiwan Normal University (Taiwan)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

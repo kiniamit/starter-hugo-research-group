@@ -23,11 +23,11 @@ bio:
 Home Country: INDIA
 
 education:
-courses:
-- course: Ph.D., MBA
-  institution: University of Memphis
-- course: M.Comm., B.Comm.
-  institution: University of Rajasthan (India)
+  courses:
+  - course: Ph.D., MBA
+    institution: University of Memphis
+  - course: M.Comm., B.Comm.
+    institution: University of Rajasthan (India)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

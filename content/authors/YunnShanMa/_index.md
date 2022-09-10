@@ -22,11 +22,11 @@ bio:
 Home Country: TAIWAN
 
 education:
-courses:
-- course: DMA
-  institution: Eastman School of Music
-- course: MS, BS
-  institution: National Taiwan Normal University (Taiwan)
+  courses:
+  - course: DMA
+    institution: Eastman School of Music
+  - course: MS, BS
+    institution: National Taiwan Normal University (Taiwan)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

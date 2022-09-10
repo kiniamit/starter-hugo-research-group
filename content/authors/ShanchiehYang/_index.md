@@ -22,11 +22,11 @@ bio:
 Home Country: TAIWAN
 
 education:
-courses:
-- course: Ph.D., MS
-  institution: University of Texas at Austin
-- course: BS
-  institution: National Chiao-Tung University (Taiwan)
+  courses:
+  - course: Ph.D., MS
+    institution: University of Texas at Austin
+  - course: BS
+    institution: National Chiao-Tung University (Taiwan)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

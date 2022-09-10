@@ -22,11 +22,11 @@ bio:
 Home Country: VENEZUELA
 
 education:
-courses:
-- course: Ph.D., MSME
-  institution: Texas A&M University
-- course: BSME
-  institution: Universidad del Tachira (Venezuela)
+  courses:
+  - course: Ph.D., MSME
+    institution: Texas A&M University
+  - course: BSME
+    institution: Universidad del Tachira (Venezuela)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

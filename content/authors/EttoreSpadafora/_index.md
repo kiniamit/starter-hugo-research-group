@@ -22,11 +22,11 @@ bio:
 Home Country: ITALY
 
 education:
-courses:
-- course: Ph.D. in international business
-  institution: University of South Carolina
-- course: Ph.D. in strategy
-  institution: UUniversity of Pisa (Italy)
+  courses:
+  - course: Ph.D. in international business
+    institution: University of South Carolina
+  - course: Ph.D. in strategy
+    institution: UUniversity of Pisa (Italy)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

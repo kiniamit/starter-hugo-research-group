@@ -30,11 +30,11 @@ interests:
 - Applied Cognitive Neuroscience
 
 education:
-courses:
-- course: Ph.D.
-  institution: Lomonosov Moscow State University (Russia)
-- course: MS
-  institution: Lomonosov Moscow State University (Russia)
+  courses:
+  - course: Ph.D.
+    institution: Lomonosov Moscow State University (Russia)
+  - course: MS
+    institution: Lomonosov Moscow State University (Russia)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

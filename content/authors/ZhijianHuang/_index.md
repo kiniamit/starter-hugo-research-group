@@ -22,15 +22,15 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: Pennsylvania State University
-- course: M.Eng.
-  institution: Cornell University
-- course: MS
-  institution: Michigan State University
-- course: BS
-  institution: Shanghai Jiaotong University (China)
+  courses:
+  - course: Ph.D.
+    institution: Pennsylvania State University
+  - course: M.Eng.
+    institution: Cornell University
+  - course: MS
+    institution: Michigan State University
+  - course: BS
+    institution: Shanghai Jiaotong University (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

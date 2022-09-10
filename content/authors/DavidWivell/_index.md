@@ -26,11 +26,11 @@ Hobbies: Tinkering, video production, travel
 My favorite Quote: Faster, Better, Cheaper... pick two.
 
 education:
-courses:
-- course: MS
-  institution: Rochester Institute of Technology
-- course: BA
-  institution: SUNY Geneseo
+  courses:
+  - course: MS
+    institution: Rochester Institute of Technology
+  - course: BA
+    institution: SUNY Geneseo
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

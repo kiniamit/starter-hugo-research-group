@@ -34,11 +34,11 @@ interests:
 - Mathematical Modeling
 
 education:
-courses:
-- course: Ph.D. Mathematics
-  institution: Purdue University
-- course: MS Mathematical Engineering, (Italy)
-- course: BS Mathematical Engineering, (Italy)
+  courses:
+  - course: Ph.D. Mathematics
+    institution: Purdue University
+  - course: MS Mathematical Engineering, (Italy)
+  - course: BS Mathematical Engineering, (Italy)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

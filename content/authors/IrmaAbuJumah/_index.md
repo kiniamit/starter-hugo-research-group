@@ -23,11 +23,11 @@ bio:
 Home Country: EL SALVADOR
 
 education:
-courses:
-- course: MS
-  institution: Rochester Institute of Technology
-- course: BS
-  institution: Dr. Jose Matias Delgado University (El Salvador)
+  courses:
+  - course: MS
+    institution: Rochester Institute of Technology
+  - course: BS
+    institution: Dr. Jose Matias Delgado University (El Salvador)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

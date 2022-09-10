@@ -22,11 +22,11 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: State University of New York at Buffalo
-- course: MA, BA
-  institution: Xiamen University (China)
+  courses:
+  - course: Ph.D.
+    institution: State University of New York at Buffalo
+  - course: MA, BA
+    institution: Xiamen University (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

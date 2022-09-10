@@ -28,11 +28,11 @@ interests:
 - Auditing quality
 
 education:
-courses:
-- course: Ph.D., MBA
-  institution: Rutgers University
-- course: MS, BS
-  institution: Tianjin University of Finance and Economics (China)
+  courses:
+  - course: Ph.D., MBA
+    institution: Rutgers University
+  - course: MS, BS
+    institution: Tianjin University of Finance and Economics (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

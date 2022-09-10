@@ -22,17 +22,17 @@ bio:
 Home Country: INDIA
 
 education:
-courses:
-- course: Ph.D.
-  institution: Southern Illinois University
-- course: M.Phil.
-  institution: University of Madras (India)
-- course: MA
-  institution: Stella Maris College (India)
-- course: B.Ed
-  institution: Madurai Kamaraj University (India)
-- course: BA
-  institution: Fatima College (Trinidad and Tobago)
+  courses:
+  - course: Ph.D.
+    institution: Southern Illinois University
+  - course: M.Phil.
+    institution: University of Madras (India)
+  - course: MA
+    institution: Stella Maris College (India)
+  - course: B.Ed
+    institution: Madurai Kamaraj University (India)
+  - course: BA
+    institution: Fatima College (Trinidad and Tobago)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

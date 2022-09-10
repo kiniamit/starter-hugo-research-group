@@ -22,13 +22,13 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Oregon
-- course: MS
-  institution: Catholic University Leuven (Belgium)
-- course: BS
-  institution: Jiangxi University of Finance and Economics (China)
+  courses:
+  - course: Ph.D.
+    institution: University of Oregon
+  - course: MS
+    institution: Catholic University Leuven (Belgium)
+  - course: BS
+    institution: Jiangxi University of Finance and Economics (China)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

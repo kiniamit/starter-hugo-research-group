@@ -22,22 +22,22 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: College of Business Administration in the University of Toledo
-- course: MS
-  institution: Jiatong University (China)
-- course: BS
-  institution: Jiatong University (China)
+  courses:
+  - course: Ph.D.
+    institution: College of Business Administration in the University of Toledo
+  - course: MS
+    institution: Jiatong University (China)
+  - course: BS
+    institution: Jiatong University (China)
 
 interests:
-- Information systems
-- supply chain management
-- Operations strategy
-- Survey research
-- Computing
-- Healthcare Technology
-- Information Science
+  - Information systems
+  - supply chain management
+  - Operations strategy
+  - Survey research
+  - Computing
+  - Healthcare Technology
+  - Information Science
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

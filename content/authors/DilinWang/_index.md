@@ -22,13 +22,13 @@ bio:
 Home Country:
 
 education:
-courses:
-- course: Ph.D.
-  institution: Oregon State University
-- course: MS
-  institution: University at Buffalo
-- course: BS
-  institution: University of Alaska Fairbanks
+  courses:
+  - course: Ph.D.
+    institution: Oregon State University
+  - course: MS
+    institution: University at Buffalo
+  - course: BS
+    institution: University of Alaska Fairbanks
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

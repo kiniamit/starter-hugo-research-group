@@ -22,13 +22,13 @@ bio:
 Home Country: UNITED KINGDOM
 
 education:
-courses:
-- course: Ph.D.
-  institution: University of Manchester (United Kingdom)
-- course: MA
-  institution: Hawaii Pacific University
-- course: BA
-  institution: Manchester Metropolitan University (United Kingdom)
+  courses:
+  - course: Ph.D.
+    institution: University of Manchester (United Kingdom)
+  - course: MA
+    institution: Hawaii Pacific University
+  - course: BA
+    institution: Manchester Metropolitan University (United Kingdom)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

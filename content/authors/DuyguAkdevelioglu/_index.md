@@ -23,13 +23,13 @@ bio:
 Home Country: TURKEY
 
 education:
-courses:
-- course: Ph.D. in Marketing
-  institution: University of California, Irvine
-  year: 2018
-- course: MS in Marketing
-  institution: Bilkent University, Turkey
-  year: 2013
+  courses:
+  - course: Ph.D. in Marketing
+    institution: University of California, Irvine
+    year: 2018
+  - course: MS in Marketing
+    institution: Bilkent University, Turkey
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -22,14 +22,14 @@ bio:
 Home Country:
 
 education:
-courses:
-- course: MA, Ph.D.
-  institution: University of California, Riverside
-- course: BJ, MA
-  institution: University of Missouri, Columbia
+  courses:
+  - course: MA, Ph.D.
+    institution: University of California, Riverside
+  - course: BJ, MA
+    institution: University of Missouri, Columbia
 
-- course: BS
-  institution: University for Development Studies (Ghana)
+  - course: BS
+    institution: University for Development Studies (Ghana)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

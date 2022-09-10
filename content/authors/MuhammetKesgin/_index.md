@@ -25,11 +25,11 @@ Hobbies: Chess, travel & cooking.
 My favorite: ATTITUDE by Charles Swindoll "The longer I live, the more I realize the impact of attitude on life. Attitude, to me, is more important than facts. It is more important than the past, than education, than money, than circumstances, than failures, than successes, than what other people think, say or do. It is more important than appearance, giftedness or skill. It will make or break a company... a church... a home. The remarkable thing is we have a choice every day regarding the attitude we embrace for that day. We cannot change our past... we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play the one string we have, and that is our attitude... I am convinced that life is 10% what happens to me and 90% how I react to it. And so it is with you... we are in charge of our Attitudes"
 
 education:
-courses:
-- course: Ph.D.
-  institution: Coventry University (United Kingdom)
-- course: MSc, BSc 
-  institution: Akdeniz University (Turkey)
+  courses:
+  - course: Ph.D.
+    institution: Coventry University (United Kingdom)
+  - course: MSc, BSc 
+    institution: Akdeniz University (Turkey)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

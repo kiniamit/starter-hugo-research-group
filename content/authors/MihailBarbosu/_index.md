@@ -30,11 +30,11 @@ interests:
 - Academic Management
 
 education:
-courses:
-- course: MS, Ph.D.
-  institution: Paris VI University (France)
-- course: BS, Ph.D.
-  institution: Babes-Bolyai University (Romania)
+  courses:
+  - course: MS, Ph.D.
+    institution: Paris VI University (France)
+  - course: BS, Ph.D.
+    institution: Babes-Bolyai University (Romania)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

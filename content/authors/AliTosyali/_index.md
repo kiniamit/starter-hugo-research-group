@@ -22,13 +22,13 @@ bio:
 Home Country: TURKEY
 
 education:
-courses:
-- course: Ph.D.
-  institution: Rutgers University
-- course: MS
-  institution: Rutgers University
-- course: BBA
-  institution: Turkish National Defense University (Turkey)
+  courses:
+  - course: Ph.D.
+    institution: Rutgers University
+  - course: MS
+    institution: Rutgers University
+  - course: BBA
+    institution: Turkish National Defense University (Turkey)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

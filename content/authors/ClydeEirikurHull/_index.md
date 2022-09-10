@@ -38,11 +38,11 @@ interests:
 - International entrepreneurship
   
 education:
-courses:
-- course: Ph.D., MBA, MB
-  institution: Indiana University
-- course: BA
-  institution: Yale University
+  courses:
+  - course: Ph.D., MBA, MB
+    institution: Indiana University
+  - course: BA
+    institution: Yale University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

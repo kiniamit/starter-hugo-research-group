@@ -22,9 +22,9 @@ bio:
 Home Country: CHINA
 
 education:
-courses:
-- course: Ph.D.
-  institution: Purdue University
+  courses:
+  - course: Ph.D.
+    institution: Purdue University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
