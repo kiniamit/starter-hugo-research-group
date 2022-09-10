@@ -24,8 +24,6 @@ content:
         brightness: 0.7
         media: septembersocial.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
         text: View Event
         url: ../event/septembersocial/
     - title: Lunch & Learn ☕️
@@ -35,7 +33,10 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: taichi.jpg
+      link:
+        text: View Event
+        url: ../event/taichi/
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
@@ -43,12 +44,10 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: internationalfeast.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
         text: View Event
-        url: ../event/septembersocial/
+        url: ../event/internationalfeast/
 ---
 
 
